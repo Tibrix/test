@@ -1,0 +1,7 @@
+.navbar-default{
+  transition:500ms ease;
+  opacity: 0.75;
+}
+.navbar-default.scrolled{
+  opacity: 1;
+}
